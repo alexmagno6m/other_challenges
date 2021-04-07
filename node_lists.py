@@ -1,4 +1,4 @@
-#ojo fue tomada desde youtube
+#ojo fue tomada desde youtube - 15 day
 class Node:
     def __init__(self,data):
         self.data = data
