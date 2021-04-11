@@ -1,3 +1,4 @@
+#challenge python
 #text logo alignament.
 c = 'H'
 thickness = int(input())
